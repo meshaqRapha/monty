@@ -39,3 +39,5 @@ void f_mod(stack_t **head, unsigned int counter)
 	*head = h->next;
 	free(h);
 }
+
+# This is a collaboration project between Hikmah Olanipekun and Mishak Nwakpa.

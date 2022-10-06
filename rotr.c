@@ -24,3 +24,5 @@ void f_rotr(stack_t **head, __attribute__((unused)) unsigned int counter)
 	(*head)->prev = copy;
 	(*head) = copy;
 }
+
+# This is a collaboration project between Hikmah Olanipekun and Mishak Nwakpa.

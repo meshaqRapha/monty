@@ -23,3 +23,5 @@ void f_pstr(stack_t **head, unsigned int counter)
 	}
 	printf("\n");
 }
+
+# This is a collaboration project between Hikmah Olanipekun and Mishak Nwakpa.

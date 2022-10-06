@@ -46,3 +46,5 @@ void addqueue(stack_t **head, int n)
 		new_node->prev = aux;
 	}
 }
+
+# This is a collaboration project between Hikmah Olanipekun and Mishak Nwakpa.

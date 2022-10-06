@@ -17,3 +17,5 @@ void f_pint(stack_t **head, unsigned int counter)
 	}
 	printf("%d\n", (*head)->n);
 }
+
+# This is a collaboration project between Hikmah Olanipekun and Mishak Nwakpa.
