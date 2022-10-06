@@ -29,3 +29,5 @@ void f_pchar(stack_t **head, unsigned int counter)
 	}
 	printf("%c\n", h->n);
 }
+
+# This is a collaboration project between Hikmah Olanipekun and Mishak Nwakpa

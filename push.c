@@ -35,3 +35,5 @@ void f_push(stack_t **head, unsigned int counter)
 	else
 		addqueue(head, n);
 }
+
+# This is a collaboration project between Hikmah Olanipekun and Mishak Nwakpa.

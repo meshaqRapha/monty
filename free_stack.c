@@ -16,3 +16,5 @@ void free_stack(stack_t *head)
 		head = aux;
 	}
 }
+
+# This is a collaboration project between Hikmah Olanipekun and Mishak Nwakpa.
