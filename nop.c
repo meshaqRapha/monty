@@ -10,5 +10,3 @@ void f_nop(stack_t **head, unsigned int counter)
 	(void) counter;
 	(void) head;
 }
-
-# This is a collaboration project between Hikmah Olanipekun and Mishak Nwakpa.

@@ -1,7 +1,7 @@
 #include "monty.h"
 /**
   *f_sub- sustration
-  *@head: stack head
+  *@head: stacks head
   *@counter: line_number
   *Return: no return
  */
@@ -27,5 +27,3 @@ void f_sub(stack_t **head, unsigned int counter)
 	*head = aux->next;
 	free(aux);
 }
-
-# This is a collaboration project between Hikmah Olanipekun and Mishak Nwakpa.

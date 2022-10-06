@@ -24,5 +24,3 @@ void f_rotl(stack_t **head,  __attribute__((unused)) unsigned int counter)
 	(*head)->prev = tmp;
 	(*head) = aux;
 }
-
-# This is a collaboration project between Hikmah Olanipekun and Mishak Nwakpa.

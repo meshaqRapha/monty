@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * f_push - add node to the stack
+ * f_push - add node to the stacks
  * @head: stack head
  * @counter: line_number
  * Return: no return
@@ -35,5 +35,3 @@ void f_push(stack_t **head, unsigned int counter)
 	else
 		addqueue(head, n);
 }
-
-# This is a collaboration project between Hikmah Olanipekun and Mishak Nwakpa.

@@ -25,7 +25,7 @@ typedef struct stack_s
 /**
  * struct bus_s - variables -args, file, line content
  * @arg: value
- * @file: pointer to monty file
+ * @file: pointer to monty files
  * @content: line content
  * @lifi: flag change stack <-> queue
  * Description: carries values through the program
@@ -77,5 +77,3 @@ void addqueue(stack_t **head, int n);
 void f_queue(stack_t **head, unsigned int counter);
 void f_stack(stack_t **head, unsigned int counter);
 #endif
-
-# This is a collaboration project between Hikmah Olanipekun and Mishak Nwakpa.

@@ -11,5 +11,3 @@ void f_stack(stack_t **head, unsigned int counter)
 	(void)counter;
 	bus.lifi = 0;
 }
-
-# This is a collaboration project between Hikmah Olanipekun and Mishak Nwakpa.
