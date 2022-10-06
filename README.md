@@ -5,7 +5,7 @@ Algorithm
 Data structure
  By: Julien Barbier
  Weight: 2
- Project done in teams of 2 people 
+ Project done in teams of 2 people by
 (Mishak Nwakpa, Hikmah Olanipekun)
 
 The Monty language
